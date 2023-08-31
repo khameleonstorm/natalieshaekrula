@@ -32,15 +32,9 @@ export const sec4 = {
   bg: '#263238',
   reverse: true
 }
+
+
 export const testimonies = [
-  {
-    name: 'Sarah M',
-    message: "Natalie Shae Krula has been a transformative force for me. Her experience is unparalleled, and her guidance has been instrumental in my financial journey. With her, I've gained insights that have shaped my decisions positively. Her expertise and personalized service come highly recommended!",
-  },
-  {
-    name: 'John D',
-    message: "As a long-term client of Natalie Shae Krula, I'm continually impressed. Her wealth of experience and market acumen shine through. Her advice has led me to make well-informed investment choices, and her commitment to her clients is unmatched. When it comes to financial matters, she's my unwavering go-to source.",
-  },
   {
     name: 'Emily R',
     message: "Navigating the complexities of finance has never been smoother. Natalie Shae Krula's expertise is evident in the breadth of services she offers. Her approachable manner and organized approach make managing my investments effortless. For all things related to brokerage and financial planning, she's the one I trust.",
@@ -49,6 +43,67 @@ export const testimonies = [
     name: 'David S',
     message: "Natalie Shae Krula embodies excellence in brokerage services. Her dedication to ensuring customer satisfaction sets her apart. With a secure approach, authentic insights, and swift responsiveness, every interaction is seamless. If you're seeking a broker who delivers results, I wholeheartedly recommend Natalie Shae Krula!",
   },
+  {
+    name: 'Linda W',
+    message: "I've had the privilege of working with Natalie Shae Krula for some time now, and her professionalism and knowledge continue to impress me. She provides thoughtful advice tailored to my financial goals and risk tolerance. Her commitment to her clients' success is truly remarkable.",
+  },
+  {
+    name: 'Michelle J',
+    message: "Natalie Shae Krula's financial expertise has been a game-changer for me. Her insights into market trends and her ability to explain complex concepts in simple terms have empowered me to make better financial decisions. Her services have exceeded my expectations in every way.",
+  },
+  {
+    name: 'Robert L',
+    message: "Natalie Shae Krula's commitment to her clients is truly commendable. Her dedication to achieving financial goals is evident in every interaction. Her insights have helped me navigate volatile markets with confidence, and her friendly approach makes discussing finances a breeze.",
+  },
+  {
+    name: 'Sophia G',
+    message: "Working with Natalie Shae Krula has been enlightening. Her advice extends beyond mere financial matters; she's a holistic wealth advisor. Her personalized approach and genuine care for her clients' financial well-being are what set her apart. I'm grateful for her guidance.",
+  },
+  {
+    name: 'Daniel M',
+    message: "Natalie Shae Krula's expertise stands out in a crowded financial landscape. Her knowledge of investment opportunities and risk management is unparalleled. She's not only helped me make informed decisions but also educated me along the way. I highly recommend her services.",
+  },
+  {
+    name: 'Jessica P',
+    message: "Natalie Shae Krula is a financial wizard. Her ability to foresee market trends and recommend timely actions is remarkable. I've achieved significant growth in my investments under her guidance. She's not just a financial advisor; she's a strategic partner in wealth-building.",
+  },
+  {
+    name: 'William H',
+    message: "I've been a client of Natalie Shae Krula for years, and her dedication to my financial success has never wavered. Her well-rounded expertise covers everything from retirement planning to tax-efficient investing. She's an invaluable asset in securing my financial future.",
+  },
+  {
+    name: 'Olivia T',
+    message: "Natalie Shae Krula's commitment to ethical financial practices is inspiring. Her recommendations are always aligned with my values, and her transparency in explaining financial strategies is refreshing. With her guidance, I've been able to achieve my financial goals while staying socially responsible.",
+  },
+  {
+    name: 'Henry C',
+    message: "Navigating the world of finance was overwhelming until I found Natalie Shae Krula. Her patient and clear explanations have empowered me to take control of my financial decisions. Her insights have proven invaluable, and her customer-focused approach makes her stand out.",
+  },
+  {
+    name: 'Isabella R',
+    message: "Natalie Shae Krula's dedication to continuous learning is evident in her up-to-date knowledge of financial trends. She's proactive in adapting strategies to changing market conditions, which has led to consistent returns on my investments. Her expertise is second to none.",
+  },
+  {
+    name: 'Jackson K',
+    message: "I'm impressed by Natalie Shae Krula's commitment to education. She doesn't just tell me what to do; she explains the reasoning behind her recommendations. This has empowered me to make informed decisions about my financial future. Her guidance is truly transformative.",
+  },
+  {
+    name: 'Ava M',
+    message: "Natalie Shae Krula's personalized approach sets her apart. She takes the time to understand my financial aspirations and tailors strategies accordingly. Her availability for discussions and quick responses make me feel valued as a client. I highly recommend her services.",
+  },
+  {
+    name: 'Ethan S',
+    message: "I've worked with several financial advisors, but Natalie Shae Krula is in a league of her own. Her insights are forward-thinking, and her commitment to helping clients succeed is unwavering. With her guidance, I've not only protected my wealth but also seen substantial growth.",
+  },
+  {
+    name: 'Mia L',
+    message: "Natalie Shae Krula's guidance extends beyond traditional finance. Her understanding of the digital economy and emerging technologies has helped me invest in future-oriented sectors. Her holistic approach to wealth management is truly commendable.",
+  },
+  {
+    name: 'Elijah B',
+    message: "In the unpredictable world of finance, Natalie Shae Krula is my anchor. Her steady advice and analytical insights have guided me through turbulent times. Her dedication to her clients' financial well-being is unmatched. I'm grateful to have her as my advisor.",
+  },
+
 ];
 
 

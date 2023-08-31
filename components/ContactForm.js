@@ -7,7 +7,7 @@ export default function ContactForm() {
   const [fullName, setFullName] = useState('');
   const [email, setEmail] = useState('');
   const [selectedCountry, setSelectedCountry] = useState('none');
-  const [countryCode, setCountryCode] = useState(countries[0].code);
+  const [countryCode, setCountryCode] = useState('');
   const [phoneNumber, setPhoneNumber] = useState('');
   const [message, setMessage] = useState('');
   const [success, setSuccess] = useState(null);
