@@ -35,6 +35,7 @@ export default function service() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="index,follow"/>
 
+        <script src="//code.tidio.co/akd8slvodjmmi8m4mrk3xo65vks3u8tt.js" async></script>
         <title>Natalie Shae Krula Portfolio | Services</title>
       </Head>
 
