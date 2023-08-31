@@ -17,12 +17,11 @@ export default function Testimonial({ data }) {
       if (windowWidth >= 600) {
         setSlidesPerView(2);
       } else {
-        setSlidesPerView(0.99);
+        setSlidesPerView(0.96);
       }
     };
 
     handleResize();
-
     window.addEventListener('resize', handleResize);
 
     return () => {

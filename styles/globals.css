@@ -144,6 +144,12 @@ button{
   border-radius: 10px !important;
 }
 
+.form select{
+  border-radius: 10px;
+  padding: 20px 5px;
+  background: none;
+}
+
 .formError{
   display: block;
   width: 100%;

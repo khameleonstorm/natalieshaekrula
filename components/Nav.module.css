@@ -130,7 +130,7 @@
   position: fixed;
   top: 0;
   right: -200px;
-  background-color: rgb(255, 241, 255);
+  background-color: var(--body-bg);
   align-items: flex-start;
   justify-content: center;
   padding-left: 50px;
