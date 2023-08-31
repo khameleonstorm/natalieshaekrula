@@ -14,7 +14,7 @@ export default function Services() {
           <div className={s.right}>
             <h1>My Services</h1>
             <p>
-            Unlock portfolio potential through adept guidance in real estate, gold, and agriculture sectors. Leverage my extensive experience and profound market trend insights to not only maximize returns but also strategically mitigate risks. Take a proactive step towards securing your financial future by reaching out today. With my expert assistance, you'll be poised for a robust and prosperous tomorrow.
+            Unlock portfolio potential through adept guidance in real estate, gold, and agriculture sectors. Leverage my extensive experience and profound market trend insights to not only maximize returns but also strategically mitigate risks. Take a proactive step towards securing your financial future by reaching out today. With my expert assistance, you&apos;ll be poised for a robust and prosperous tomorrow.
             </p>
             <Link href="/contact" className='heroBtn'>Contact Me!</Link>
           </div>

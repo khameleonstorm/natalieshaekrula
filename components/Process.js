@@ -9,7 +9,7 @@ export default function Process() {
         <div className={s.heading}>
           <h1>My Process</h1>
           <p>
-            Over the span of my illustrious 22-year career, I've masterfully overseen a staggering portfolio that surges past the $6.7 billion mark. My realm of influence extends to a mosaic of 800 diverse individuals, each benefiting from my avant-garde investment advisory prowess. Paramount among my pursuits is the impregnable safeguarding of your investments—a relentless endeavor to truncate conceivable losses and amplify lucidly lucrative prospects. Armed with my unparalleled proficiency and unwavering dedication to birthing extraordinary outcomes, take solace in the certainty that your investments repose within the adept embrace of the future.
+            Over the span of my illustrious 22-year career, I&apos;ve masterfully overseen a staggering portfolio that surges past the $6.7 billion mark. My realm of influence extends to a mosaic of 800 diverse individuals, each benefiting from my avant-garde investment advisory prowess. Paramount among my pursuits is the impregnable safeguarding of your investments—a relentless endeavor to truncate conceivable losses and amplify lucidly lucrative prospects. Armed with my unparalleled proficiency and unwavering dedication to birthing extraordinary outcomes, take solace in the certainty that your investments repose within the adept embrace of the future.
           </p>
         </div>
 
