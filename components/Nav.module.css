@@ -1,0 +1,160 @@
+.ctn{
+  width: 100%;
+  background: transparent;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.ctnBg{
+  background-color: #ffffff00;
+  backdrop-filter: blur(20px);
+}
+
+.ctnBg .wrp{
+  justify-content: space-between;
+}
+
+.wrp{
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 25px 0;
+  display: flex;
+  align-items: center;
+  gap: 150px;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.logo h1{
+  font-size: 1.2rem;
+  font-weight: 400;
+  letter-spacing: -1.5px;
+  color: #0e0015;
+}
+
+.menu{
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.menu a{
+  font-size: 1rem;
+  font-weight: 400;
+  color: #0e0015;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.menu a::after{
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 20px;
+  height: 2px;
+  background-color: #0e0015;
+  transition: all 0.3s ease;
+  border-radius: 1px;
+}
+
+.menu a:hover::after{
+  width: 100%;
+  background-color: var(--primary-color);
+}
+
+.menu a:nth-child(5){
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: var(--primary-color);
+  position: relative;
+  overflow: hidden;
+  transition: all ease-out .3s;
+  z-index: 1;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu a:nth-child(5)::after{
+  display: none;
+}
+
+.menu a:nth-child(5)::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: var(--dark-blue);
+  transform: scaleX(0);
+  transform-origin: 1;
+  transition: all ease-in-out .3s;
+  z-index: -1;
+  border-radius: 10px;
+}
+
+
+.menu a:nth-child(5):hover,
+.menu a:nth-child(5):focus{
+  color: #ffffff;
+}
+
+.menu a:nth-child(5):hover:before,
+.menu a:nth-child(5):focus:before{
+  transform: scaleX(1);
+}
+
+.close, .open{
+  display: none;
+}
+
+
+@media screen and (max-width: 900px) {
+.wrp{
+  padding: 20px 10px;
+  justify-content: space-between;
+}
+
+.menu{
+  flex-direction: column;
+  width: 200px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: -200px;
+  background-color: rgb(255, 241, 255);
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 50px;
+  transition: all 0.3s ease;
+}
+
+.menu a{
+  font-size: 1.2rem;
+}
+
+
+.menu a::after{
+  width: 15px;
+}
+
+.close, .open{
+  display: block;
+  font-size: 2rem;
+}
+
+.close{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+}

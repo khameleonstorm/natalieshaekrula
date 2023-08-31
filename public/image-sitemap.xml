@@ -1,0 +1,19 @@
+<urlset xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.mayrafemia.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmayra-femia-hetrick.4be2d46d.jpg&amp;w=1080&amp;q=75</loc>
+    <image:image>
+      <image:loc>https://www.mayrafemia.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmayra-femia-hetrick.4be2d46d.jpg&amp;w=1080&amp;q=75</image:loc>
+      <image:title>mayra femia hetrick</image:title>
+      <image:caption>This is my portfolio</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://www.mayrafemia.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmayra-femia-hetrick2.8f5f6123.jpg&amp;w=1080&amp;q=75</loc>
+    <image:image>
+      <image:loc>https://www.mayrafemia.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmayra-femia-hetrick2.8f5f6123.jpg&amp;w=1080&amp;q=75</image:loc>
+      <image:title>mayra femia hetrick</image:title>
+      <image:caption>This is my portfolio, explore my professional services.</image:caption>
+    </image:image>
+  </url>
+</urlset>
