@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    SMTP_USER: 'test@spyderdev.com',
-    SMTP_PASSWORD: '#Terminator150'
+    SMTP_USER: 'help@natalieshaekrula.com',
+    SMTP_PASSWORD: '3099545689'
   },
 }
 
