@@ -16,7 +16,7 @@ export default function Footer() {
             </div>
 
             <div className={s.contactWrp}>
-              <div><a href="https://t.me/natalieshaekrula"><FaTelegramPlane /></a><p>Telegram</p></div>
+              <div><a href="https://t.me/Natalieshaekrula"><FaTelegramPlane /></a><p>Telegram</p></div>
             </div>
 
           </div>
