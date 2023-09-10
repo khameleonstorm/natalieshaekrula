@@ -1,5 +1,5 @@
 import { FaTelegramPlane } from 'react-icons/fa'
-import { IoMdMail, IoLogoWhatsapp, IoLogoTwitter } from 'react-icons/io'
+import { IoMdMail, IoLogoTwitter } from 'react-icons/io'
 import s from './Footer.module.css'
 
 export default function Footer() {
@@ -17,6 +17,7 @@ export default function Footer() {
 
             <div className={s.contactWrp}>
               <div><a href="https://t.me/Natalieshaekrula"><FaTelegramPlane /></a><p>Telegram</p></div>
+              <div><a href="https://twitter.com/shaekrula"><IoLogoTwitter /></a><p>Twitter</p></div>
             </div>
 
           </div>
